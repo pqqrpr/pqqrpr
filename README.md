@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: yojefff@gmail.com
 <a href="https://www.linkedin.com/in/jongmyung-jeong/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width=111 height=28></a>
-  <img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611892dbecaf5e34a7befbd47f6162bc92f49295056&rid=giphy.gif&ct=g" width=280 height=190>
+
+<img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611892dbecaf5e34a7befbd47f6162bc92f49295056&rid=giphy.gif&ct=g" width=280 height=190>
 
 ### Portfolio Projects
 - E-commerce Q & A widget(Front End)
