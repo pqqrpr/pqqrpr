@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: yojefff@gmail.com
 
-<img src="https://miro.medium.com/max/1024/0*Za8H9d3CCWPRSJkl.gif">
+<img src="https://miro.medium.com/max/1024/0*Za8H9d3CCWPRSJkl.gif" width=480 height=360>
 
 ### Portfolio Projects
 - E-commerce Q & A widget(Front End)
