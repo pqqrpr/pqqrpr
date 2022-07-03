@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yojefff@gmail.com
 
 <img src="https://miro.medium.com/max/1024/0*Za8H9d3CCWPRSJkl.gif" width=480 height=360>
+<img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611892dbecaf5e34a7befbd47f6162bc92f49295056&rid=giphy.gif&ct=g" width=360 height=240>
 
 ### Portfolio Projects
 - E-commerce Q & A widget(Front End)
