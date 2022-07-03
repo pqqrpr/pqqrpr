@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Jongmyung Jeong(JJ), a full stack software engineer from the Bay Area. 
+### Hi there 👋 
+I'm Jongmyung Jeong(JJ), 
+## a full stack software engineer from the Bay Area. 
 
 <!--
 **pqqrpr/pqqrpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
