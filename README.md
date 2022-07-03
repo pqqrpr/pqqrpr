@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611892dbecaf5e34a7befbd47f6162bc92f49295056&rid=giphy.gif&ct=g" width=280 height=190>
 
 ### Portfolio Projects
-- E-commerce Q & A widget(Front End)
-- System Design for Q & A widget(Back End)
-- Better Eats: user profile page(Full Stack)
-- Restroom Finder(Full Stack)
+- <a href="https://github.com/RFP2204-12/FEC_capstone" target="_blank">E-commerce Q & A widget</a>(Front End)
+- <a href="https://github.com/Team-Droid-SDC/qna-service" target="_blank">System Design for Q & A widget</a>(Back End)
+- <a href="https://github.com/Better-Eats/Better-Eats" target="_blank">Better Eats: user profile page</a>(Full Stack)
+- <a href="https://github.com/pqqrpr/restroom-finder" target="_blank">Restroom Finder</a>(Full Stack)
 
 ### Technical Skills
 - Front End | JavaScript (ES5 and ES6), React, jQuery, Ajax, HTML5, CSS3, Material UI
