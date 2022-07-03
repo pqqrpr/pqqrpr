@@ -27,4 +27,10 @@ Here are some ideas to get you started:
 - Better Eats: user profile page(Full Stack)
 - Restroom Finder(Full Stack)
 
+### Technical Skills
+- Front End | JavaScript (ES5 and ES6), React, jQuery, Ajax, HTML5, CSS3, Material UI
+- Back End | Node.js, Axios, Express, PostgreSQL, MongoDB, MySQL, RESTful API Development
+- Testing/Deployment | Jest, Mocha, Chai, Loader.io, k6 / AWS: EC2, Nginx
+- Developer Tools | Vim, Git, Npm, Webpack, Babel, Agile Methodology, Postman
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
