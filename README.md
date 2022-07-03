@@ -19,5 +19,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on A Restroom Finder App, which is my personal project. 
 - 🌱 I’m currently learning TypeScript
+- 📫 How to reach me: yojefff@gmail.com
+
+### Portfolio Projects
+- E-commerce Q & A widget(Front End)
+- System Design for Q & A widget(Back End)
+- Better Eats: user profile page(Full Stack)
+- Restroom Finder(Full Stack)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
