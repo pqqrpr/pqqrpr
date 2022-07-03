@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on A Restroom Finder App, which is my personal project. 
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: yojefff@gmail.com
-
-<a href="https://www.linkedin.com/in/jongmyung-jeong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 📫 How to reach me: jongmyung.jeong7@gmail.com
 
 <img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611892dbecaf5e34a7befbd47f6162bc92f49295056&rid=giphy.gif&ct=g" width=280 height=190>
 
