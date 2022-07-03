@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Restroom Finder App, which is my personal project. 
+- 🔭 I’m currently working on A Restroom Finder App, which is my personal project. 
 - 🌱 I’m currently learning TypeScript
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
