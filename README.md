@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on A Restroom Finder App, which is my personal project. 
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: yojefff@gmail.com
-<img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611892dbecaf5e34a7befbd47f6162bc92f49295056&rid=giphy.gif&ct=g" width=360 height=240>
+- 📫 How to reach me: yojefff@gmail.com, <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611892dbecaf5e34a7befbd47f6162bc92f49295056&rid=giphy.gif&ct=g" width=300 height=180>
 
 ### Portfolio Projects
 - E-commerce Q & A widget(Front End)
