@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on A Restroom Finder App, which is my personal project. 
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning Python.
 - ⚡  I like listening to music, playing guitar, and playing tennis in my free time.
 - 😄 Pronouns: he/his
 - 📫 How to reach me: jongmyung.jeong7@gmail.com
